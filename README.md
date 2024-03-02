@@ -4,7 +4,9 @@
   Sou um estudante técnico em TI e adoro resolver problemas usando a tecnologia!
   <hr>
   <h2>💻 Tecnologias e Experiências</h2>
-  
-    Hardware
-    C++
-    Microsoft Excel, Word e Powerpoint
+
+  <ul>
+    <li>Hardware;</li>
+    <li>C++;</li>
+    <li>Microsoft Excel, Word, Powerpoint.</li>
+  </ul>
